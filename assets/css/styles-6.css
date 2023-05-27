@@ -54,9 +54,9 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .profile-container {
-  padding: 30px;
+  padding: 15px;
   background: rgba(0, 0, 0, 0.2);
-  text-align: center;
+  
   color: #fff;
 }
 .sidebar-wrapper .name {
@@ -218,7 +218,7 @@ p {
   margin-bottom: 15px;
 }
 .skillset .item {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   overflow: hidden;
 }
 .skillset .level-title {
